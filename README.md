@@ -1,6 +1,6 @@
 # PowerBi-Projects
 
-##1. E-commerce Sales Dashboard
+1. E-commerce Sales Dashboard
 An interactive dashboard created to track and analyze online sales data, providing valuable insights for business decisions.
 
 Key Features:
@@ -10,7 +10,7 @@ Key Features:
 3.Data Manipulation: Established connections, joined new tables, and performed calculations to manipulate data, supporting user-driven parameters for visualizations.
 4.Diverse Visualizations: Leveraged a variety of customized visualizations including bar charts, pie charts, donut charts, clustered bar charts, scatter charts, line charts, area charts, and maps to effectively present data insights.
 
-##2. Credit Card Financial Dashboard
+2. Credit Card Financial Dashboard
 An interactive financial dashboard developed using Power BI to provide real-time insights into credit card transactions and customer behavior.
 
 Key Features:
